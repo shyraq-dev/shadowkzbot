@@ -345,9 +345,9 @@ MIT License - [LICENSE](LICENSE)
 
 ## 👤 Байланыс
 
-- **Telegram**: @your_username
-- **Email**: your@email.com
-- **GitHub**: [shadowkz-bot](https://github.com/yourusername/shadowkz-bot)
+- **Telegram**: @Shyraq_Dev
+- **Email**: shyraqdev@gmail.com
+- **GitHub**: [shadowkz-bot](https://github.com/shyraq-dev/shadowkz-bot)
 
 ---
 
